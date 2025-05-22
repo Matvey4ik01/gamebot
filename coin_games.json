@@ -1,0 +1,38 @@
+{
+  "1": {
+    "creator_id": 5218660672,
+    "creator_name": "хасбуллла",
+    "choice": "орел",
+    "amount": 100,
+    "status": "waiting",
+    "opponent_id": null,
+    "chat_id": -1002029437064
+  },
+  "3": {
+    "creator_id": 5218660672,
+    "creator_name": "хасбуллла",
+    "choice": "орел",
+    "amount": 100,
+    "status": "waiting",
+    "opponent_id": null,
+    "chat_id": -1002029437064
+  },
+  "4": {
+    "creator_id": 5218660672,
+    "creator_name": "хасбуллла",
+    "choice": "орел",
+    "amount": 100,
+    "status": "waiting",
+    "opponent_id": null,
+    "chat_id": -1002029437064
+  },
+  "5": {
+    "creator_id": 5218660672,
+    "creator_name": "хасбуллла",
+    "choice": "орел",
+    "amount": 100,
+    "status": "waiting",
+    "opponent_id": null,
+    "chat_id": -1002029437064
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "5218660672": {
+    "balance": 829860,
+    "name": "хасбуллла",
+    "game_id": 777777,
+    "last_bonus_time": 1747844753.3125658,
+    "referrals": [
+      8086957094
+    ],
+    "referrer": null,
+    "telegram_username": "matvey4ik01",
+    "clickable_name": true,
+    "last_bet": {
+      "amount": 10000,
+      "type": "чет"
+    },
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "watches": "Seiko 5",
+    "smartphones": "Xiaomi Redmi Note 13",
+    "helicopters": "Eurocopter EC120",
+    "planes": "Pilatus PC-12",
+    "houses": "Коттедж в пригороде",
+    "cars": "Kia Rio",
+    "user_deposit": {
+      "amount": 333000,
+      "start": 1747063197,
+      "days": 1,
+      "percent": 3
+    },
+    "user_bank": 0,
+    "user_deposits": [],
+    "available_emojis": [
+      "🪵",
+      "🪙",
+      "🪵",
+      "📿",
+      "🪓",
+      "🪞",
+      "🪵",
+      "🪞",
+      "🪶",
+      "🪓"
+    ],
+    "current_work": "dvor",
+    "correct_emoji": "🧹"
+  },
+  "6685644864": {
+    "balance": 1002,
+    "game_id": 499860,
+    "name": "Жорам Билан",
+    "last_bonus_time": 0,
+    "referrals": [],
+    "referrer": null,
+    "telegram_username": "lIlIllllIlIl",
+    "clickable_name": false,
+    "last_bet": {
+      "amount": 0,
+      "type": ""
+    },
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "user_deposits": []
+  },
+  "8086957094": {
+    "balance": 78361606,
+    "name": "жопа",
+    "game_id": 123456,
+    "last_bonus_time": 1746448850.8280723,
+    "referrals": [],
+    "referrer": 5218660672,
+    "telegram_username": "metamfetamin_ru",
+    "clickable_name": false,
+    "last_bet": {
+      "amount": 0,
+      "type": ""
+    },
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "user_bank": 0,
+    "user_deposits": [
+      {
+        "amount": 193,
+        "start": 1747928085,
+        "days": 7,
+        "percent": 7
+      }
+    ]
+  },
+  "7787501141": {
+    "balance": 0,
+    "name": "карасик",
+    "game_id": 123123,
+    "last_bonus_time": 1747735185.3387208,
+    "referrals": [],
+    "referrer": null,
+    "telegram_username": "Otrux",
+    "clickable_name": true,
+    "last_bet": {
+      "amount": 10000000000000,
+      "type": "чет"
+    },
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "flats": null,
+    "planes": null,
+    "smartphones": null,
+    "cars": null,
+    "houses": null,
+    "helicopters": null,
+    "watches": null,
+    "available_emojis": [
+      "🪵",
+      "🪞",
+      "🪵",
+      "🪞",
+      "🪵",
+      "🪓",
+      "🪙",
+      "🪵",
+      "🪵",
+      "🪤"
+    ],
+    "current_work": "cladman",
+    "correct_emoji": "🗑️",
+    "user_deposits": [
+      {
+        "amount": 1144900,
+        "start": 1747909181,
+        "days": 7,
+        "percent": 7
+      }
+    ],
+    "user_bank": 999000
+  },
+  "798630941": {
+    "balance": 2000,
+    "name": "User0941",
+    "game_id": 782016,
+    "last_bonus_time": 1746711681.7676067,
+    "referrals": [],
+    "referrer": null,
+    "telegram_username": "barin_was_here",
+    "clickable_name": true,
+    "last_bet": {
+      "amount": 0,
+      "type": ""
+    },
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "user_deposits": []
+  },
+  "1006503122": {
+    "balance": 0,
+    "name": "Паша Дуров",
+    "game_id": null,
+    "last_bonus_time": 0,
+    "referrals": [],
+    "referrer": null,
+    "telegram_username": "paul",
+    "clickable_name": true,
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "user_deposits": []
+  },
+  "5260272195": {
+    "balance": 80,
+    "name": "Без имени",
+    "game_id": null,
+    "last_bonus_time": 0,
+    "referrals": [],
+    "referrer": null,
+    "telegram_username": "kaxa_kazaxa1",
+    "clickable_name": true,
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "user_deposits": []
+  },
+  "7828533112": {
+    "balance": 0,
+    "name": "Без имени",
+    "game_id": null,
+    "last_bonus_time": 0,
+    "referrals": [],
+    "referrer": null,
+    "telegram_username": null,
+    "clickable_name": true,
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "current_shop_category": "helicopters",
+    "current_shop_items": [
+      {
+        "name": "Robinson R44",
+        "price": 9000
+      },
+      {
+        "name": "Bell 206",
+        "price": 20000
+      },
+      {
+        "name": "Eurocopter EC120",
+        "price": 35000
+      },
+      {
+        "name": "AgustaWestland AW109",
+        "price": 60000
+      },
+      {
+        "name": "Bell 429",
+        "price": 90000
+      },
+      {
+        "name": "Airbus H145",
+        "price": 150000
+      },
+      {
+        "name": "Sikorsky S-76",
+        "price": 250000
+      },
+      {
+        "name": "AgustaWestland AW139",
+        "price": 400000
+      },
+      {
+        "name": "Bell 525 Relentless",
+        "price": 700000
+      },
+      {
+        "name": "Airbus H225",
+        "price": 1200000
+      }
+    ],
+    "user_deposits": []
+  },
+  "7116734612": {
+    "balance": 0,
+    "name": "Без имени",
+    "game_id": null,
+    "last_bonus_time": 0,
+    "referrals": [],
+    "referrer": null,
+    "telegram_username": null,
+    "clickable_name": true,
+    "assets": {
+      "cars": [],
+      "houses": [],
+      "yachts": [],
+      "planes": [],
+      "helicopters": [],
+      "smartphones": []
+    },
+    "user_deposits": []
+  }
+}
