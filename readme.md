@@ -20,8 +20,9 @@
 
 1. **Клонируйте репозиторий:**
    ```sh
-   git clone https://github.com/yourusername/gamebot.git
-   cd gamebot/gamebot
+   git clone https://github.com/Matvey4ik01/gamebot.git
+   cd gamebot
+
    ```
 
 2. **Установите зависимости:**
